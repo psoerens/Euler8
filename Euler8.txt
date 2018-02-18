@@ -1,0 +1,5 @@
+Notes and thoughts on Project Euler problem 8:
+
+For ease of use/scalability the large digit number will need to be read in
+~~See 1000digit.txt
+
