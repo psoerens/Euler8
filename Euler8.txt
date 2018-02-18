@@ -2,6 +2,8 @@ Notes and thoughts on Project Euler problem 8:
 
 For ease of use/scalability the large digit number will need to be read in
 ~~See 1000digit.txt
+~~~~Formatting notes of this file: 
+~~~~Top lines has large numbers: [rows, clomuns, length] for use during reading.  immediatly following that is the large digit length
 
 The problem given states that we need to use 13 adjacent digits which when multipled together yeild the largest result.  We can view this selection of 13 digits as a lens of length "n" to be used on a large number with "N" digits
 
