@@ -11,8 +11,6 @@ class LargeNumberReader():
 			line 0: rows, columns, number of digits
 			line [1:r]: the digits on lines not longer than columns
 		'''
-		
-		#largeNumberTxt = '1000digit.txt'	#The file to be read from
 	
 		with open(self.largeNumberTxt) as file_object:	#open the object
 			lines = file_object.readlines()			#read lines into a list
